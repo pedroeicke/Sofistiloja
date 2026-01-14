@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sofisti Casa & Presentes",
+  "description": "Uma landing page de alta conversão para decoração sofisticada e presentes premium.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
